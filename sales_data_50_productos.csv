@@ -1,0 +1,51 @@
+Date,Product,Category,Price,Quantity,Total_Sales
+2024-01-05,Laptop,Electronics,1119.71,7,7837.97
+2024-01-03,Phone,Electronics,872.74,11,9600.14
+2024-04-22,Mouse,Accessories,688.78,13,8954.14
+2024-03-16,Keyboard,Accessories,936.11,9,8424.99
+2024-02-01,Monitor,Accessories,156.2,1,156.2
+2024-02-14,Tablet,Electronics,599.36,6,3596.16
+2024-04-20,Smartwatch,Electronics,1027.08,10,10270.8
+2024-03-21,Headphones,Accessories,327.16,7,2290.12
+2024-02-11,Charger,Accessories,735.15,14,10292.1
+2024-01-30,USB Cable,Accessories,92.69,12,1112.28
+2024-02-23,Webcam,Accessories,1325.48,7,9278.36
+2024-02-09,Speaker,Accessories,1334.12,6,8004.72
+2024-01-08,Power Bank,Accessories,754.09,4,3016.36
+2024-03-06,Drone,Accessories,1161.16,13,15095.08
+2024-04-16,Camera,Electronics,1281.31,12,15375.72
+2024-04-09,Tripod,Accessories,679.78,10,6797.8
+2024-04-03,Microphone,Accessories,725.42,18,13057.56
+2024-01-24,TV,Electronics,768.66,19,14604.54
+2024-01-28,Projector,Accessories,613.6,15,9204.0
+2024-04-11,VR Headset,Accessories,1298.65,9,11687.85
+2024-04-16,Gaming Console,Electronics,777.25,10,7772.5
+2024-02-08,Hard Drive,Accessories,632.5,17,10752.5
+2024-03-27,SSD,Accessories,583.63,1,583.63
+2024-01-18,Graphics Card,Electronics,675.04,3,2025.12
+2024-03-03,Processor,Electronics,1313.87,19,24963.53
+2024-03-15,RAM,Electronics,785.51,2,1571.02
+2024-01-08,Motherboard,Electronics,683.49,16,10935.84
+2024-01-22,PC Case,Accessories,764.39,19,14523.41
+2024-03-27,Cooling Fan,Accessories,187.13,9,1684.17
+2024-03-16,Router,Electronics,862.11,6,5172.66
+2024-02-17,Modem,Electronics,131.69,10,1316.9
+2024-02-28,Ethernet Cable,Accessories,187.32,15,2809.8
+2024-04-01,Smart Light,Electronics,742.36,13,9650.68
+2024-04-04,Smart Plug,Electronics,1488.65,7,10420.55
+2024-04-29,Doorbell Cam,Electronics,272.5,11,2997.5
+2024-02-20,Thermostat,Electronics,501.39,19,9526.41
+2024-03-08,E-Reader,Electronics,117.46,11,1292.06
+2024-02-14,Fitness Band,Electronics,354.07,16,5665.12
+2024-03-19,Bluetooth Tracker,Electronics,194.05,4,776.2
+2024-03-17,Portable Monitor,Accessories,124.27,2,248.54
+2024-01-01,Smart Glasses,Electronics,1159.39,19,22028.41
+2024-03-26,HDMI Cable,Accessories,494.84,20,9896.8
+2024-02-05,Extension Cord,Accessories,1216.07,15,18241.05
+2024-04-05,Screen Protector,Accessories,1175.5,2,2351.0
+2024-02-06,Memory Card,Accessories,1413.47,10,14134.7
+2024-03-28,Stylus Pen,Accessories,114.69,19,2179.11
+2024-04-16,3D Printer,Electronics,423.31,17,7196.27
+2024-03-29,Smart Scale,Electronics,207.13,11,2278.43
+2024-04-27,Dash Cam,Electronics,1066.25,3,3198.75
+2024-04-23,Laser Pointer,Accessories,123.54,17,2100.18
