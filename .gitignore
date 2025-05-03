@@ -3,3 +3,7 @@
 
 # Archivos de configuración local
 .streamlit/secrets.toml
+
+venv/
+
+env/
